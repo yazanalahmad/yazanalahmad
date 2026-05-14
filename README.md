@@ -8,18 +8,15 @@
 
 ---
 
-## what I build
+## What I Build
 
-- AI systems that actually work in production — RAG, vector search, LLM integration
-- fast APIs that don't fall over — FastAPI, Django, sub-150ms under real load
-- full-stack products from scratch — React, TypeScript, real-time features
-- infrastructure that scales — Docker, Kubernetes, Helm, Redis, PostgreSQL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=99999999&color=8B949E&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=AI+systems+that+actually+work+in+production+%E2%80%94+RAG%2C+vector+search%2C+LLM+integration;Fast+APIs+that+don%27t+fall+over+%E2%80%94+FastAPI%2C+Django%2C+sub-150ms+under+real+load;Full-stack+products+from+scratch+%E2%80%94+React%2C+TypeScript%2C+real-time+features;Infrastructure+that+scales+%E2%80%94+Docker%2C+Kubernetes%2C+Helm%2C+Redis%2C+PostgreSQL" alt="What I Build"/>
 
 ---
 
-## stack
+## Stack
 
-**languages**
+**Languages**
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" title="Python"/>
@@ -28,17 +25,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" title="JavaScript"/>
 </p>
 
-**frameworks**
+**Frameworks**
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32" title="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32" height="32" title="Django"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" title="React / React Native"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" title="Node.js"/>
 </p>
 
-**infrastructure**
+**Infrastructure**
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" title="Docker"/>
@@ -49,12 +46,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" title="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="32" height="32" title="GCP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32" height="32" title="Prometheus"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32" height="32" title="Grafana"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="32" height="32" title="OpenTelemetry"/>
 </p>
 
-**ai / ml**
+**AI / ML**
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" height="32" title="PyTorch"/>
@@ -73,9 +68,9 @@
 
 ---
 
-## activity
+## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yazanalahmad&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://ghchart.rshah.org/534AB7/yazanalahmad" width="100%"/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&theme=github-compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=yazanalahmad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 
