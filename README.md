@@ -1,18 +1,16 @@
 <div align="center">
 
-![header](./header.svg)
+<img src="./github-water-header-v3.gif" width="100%" alt="Animated water-style GitHub header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-eyad/)
 
 </div>
 
----
+<br/>
 
-## What I Build
+<img src="./what-i-build-v1.gif" width="100%" alt="What I Build" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=99999999&color=8B949E&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=AI+systems+that+actually+work+in+production+%E2%80%94+RAG%2C+vector+search%2C+LLM+integration;Fast+APIs+that+don%27t+fall+over+%E2%80%94+FastAPI%2C+Django%2C+sub-150ms+under+real+load;Full-stack+products+from+scratch+%E2%80%94+React%2C+TypeScript%2C+real-time+features;Infrastructure+that+scales+%E2%80%94+Docker%2C+Kubernetes%2C+Helm%2C+Redis%2C+PostgreSQL" alt="What I Build"/>
-
----
+<br/>
 
 ## Stack
 
@@ -66,11 +64,12 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-1a1a2e?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logoColor=white)
 
----
+<br/>
 
 ## Activity
 
-<img src="https://ghchart.rshah.org/534AB7/yazanalahmad" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=8b8bff&point=c9d1d9&area=true&area_color=534AB7&hide_border=true&hide_title=true&radius=10" width="100%" alt="GitHub activity graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=yazanalahmad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=github-dark-blue&hide_border=true&border_radius=10&ring=8b8bff&fire=8b8bff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="GitHub streak stats" />
