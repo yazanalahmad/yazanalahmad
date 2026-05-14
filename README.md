@@ -2,6 +2,8 @@
 
 <img src="./github-water-header.gif" width="100%" alt="Animated water-style GitHub header" />
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-eyad/)
 
 </div>
@@ -68,8 +70,8 @@
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=8b8bff&point=c9d1d9&area=true&area_color=534AB7&hide_border=true&hide_title=true&radius=10" width="100%" alt="GitHub activity graph" />
+<img src="https://ghchart.rshah.org/7C72FF/yazanalahmad" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=github-dark-blue&hide_border=true&border_radius=10&ring=8b8bff&fire=8b8bff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=github-dark-blue&hide_border=true&border_radius=10&ring=7C72FF&fire=7C72FF&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="100%" />
