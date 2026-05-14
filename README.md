@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-water-header-clear.gif" width="100%" alt="Animated GitHub header" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=5E8A9A&height=200&section=header&text=hey,%20I'm%20Yazan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=software%20engineer%20%E2%80%A2%20Gen%20AI%20%E2%80%A2%20full-stack%20%E2%80%A2%20whatever%20breaks%20at%202%20AM&descAlignY=56&descSize=15&descFontColor=d0eaf0&animation=fadeIn)
 
 <br/>
 
@@ -10,7 +10,9 @@
 
 <br/>
 
-<img src="./what-i-build-clear.gif" width="100%" alt="What I Build" />
+**What I Build**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=100&color=5E8A9A&multiline=true&repeat=false&width=720&height=110&lines=%E2%96%B8+AI+systems+that+actually+work+in+production+%E2%80%94+RAG%2C+vector+search%2C+LLM+integration;%E2%96%B8+fast+APIs+that+don't+fall+over+%E2%80%94+FastAPI%2C+Django%2C+sub-150ms+under+real+load;%E2%96%B8+full-stack+products+from+scratch+%E2%80%94+React%2C+TypeScript%2C+real-time+features;%E2%96%B8+infra+that+doesn't+wake+you+up+at+3+AM+%E2%80%94+Docker%2C+Kubernetes%2C+Helm%2C+Redis%2C+PostgreSQL)](https://git.io/typing-svg)
 
 <br/>
 
@@ -70,8 +72,10 @@
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&bg_color=F6F8FA&color=2F3D4E&line=5E8A9A&point=5E8A9A&area=true&hide_border=true&title_color=2F3D4E&area_color=BFD6DE" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&bg_color=transparent&color=2F3D4E&line=5E8A9A&point=5E8A9A&area=true&hide_border=true&title_color=2F3D4E&area_color=BFD6DE" width="100%" alt="GitHub activity graph" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=default&hide_border=true&border_radius=12&background=F6F8FA&stroke=D8E0E7&ring=5E8A9A&fire=5E8A9A&currStreakLabel=2F3D4E&sideLabels=2F3D4E&dates=66788C&currStreakNum=2F3D4E&sideNums=2F3D4E" width="100%" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=transparent&hide_border=true&border_radius=12&ring=5E8A9A&fire=5E8A9A&currStreakLabel=2F3D4E&sideLabels=2F3D4E&dates=66788C&currStreakNum=2F3D4E&sideNums=2F3D4E" width="100%" alt="GitHub streak stats" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=5E8A9A&height=100&section=footer)

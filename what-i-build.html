@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: transparent;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    padding: 32px 52px;
+    width: 900px;
+  }
+
+  h2 {
+    font-size: 26px;
+    font-weight: 800;
+    color: #1E2D3D;
+    letter-spacing: -0.5px;
+    margin-bottom: 6px;
+  }
+
+  .underline {
+    height: 3px;
+    border-radius: 2px;
+    background: linear-gradient(to right, #5E8A9A, #7EB8C9);
+    width: 0;
+    margin-bottom: 28px;
+    animation: grow 0.4s 0.1s ease-out forwards;
+  }
+
+  @keyframes grow { to { width: 145px; } }
+
+  .lines { display: flex; flex-direction: column; gap: 18px; }
+
+  .line { font-size: 15px; line-height: 1.5; }
+
+  .bullet { color: #5E8A9A; font-weight: 700; margin-right: 8px; }
+
+  .label { color: #1E2D3D; font-weight: 600; }
+
+  .dash { color: #5E8A9A; }
+
+  .rest { color: #66788C; font-size: 13.5px; }
+
+  .cursor {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background: #5E8A9A;
+    margin-left: 2px;
+    vertical-align: middle;
+    animation: blink 0.6s infinite;
+  }
+
+  @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+</style>
+</head>
+<body>
+  <h2>What I Build</h2>
+  <div class="underline"></div>
+
+  <div class="lines">
+    <div class="line"><span class="bullet">▸</span><span id="t1"></span></div>
+    <div class="line"><span class="bullet">▸</span><span id="t2"></span></div>
+    <div class="line"><span class="bullet">▸</span><span id="t3"></span></div>
+    <div class="line"><span class="bullet">▸</span><span id="t4"></span><span class="cursor"></span></div>
+  </div>
+
+<script>
+  const lines = [
+    {
+      id: 't1',
+      label: 'AI systems that actually work in production',
+      dash: ' — ',
+      rest: 'RAG, vector search, LLM integration'
+    },
+    {
+      id: 't2',
+      label: 'fast APIs that don\'t fall over',
+      dash: ' — ',
+      rest: 'FastAPI, Django, sub-150ms under real load'
+    },
+    {
+      id: 't3',
+      label: 'full-stack products from scratch',
+      dash: ' — ',
+      rest: 'React, TypeScript, real-time features'
+    },
+    {
+      id: 't4',
+      label: 'infra that doesn\'t wake you up at 3 AM',
+      dash: ' — ',
+      rest: 'Docker, Kubernetes, Helm, Redis, PostgreSQL'
+    },
+  ];
+
+  const CHAR_DELAY = 22;
+  const START_DELAY = 500;
+
+  lines.forEach(({ id, label, dash, rest }) => {
+    const el = document.getElementById(id);
+    const full = label + dash + rest;
+    const labelEnd = label.length;
+    const dashEnd = labelEnd + dash.length;
+    let i = 0;
+
+    setTimeout(() => {
+      const interval = setInterval(() => {
+        i++;
+        const typed = full.slice(0, i);
+
+        const labelPart = typed.slice(0, Math.min(i, labelEnd));
+        const dashPart  = i > labelEnd ? typed.slice(labelEnd, Math.min(i, dashEnd)) : '';
+        const restPart  = i > dashEnd  ? typed.slice(dashEnd) : '';
+
+        let html = '';
+        if (labelPart) html += `<span class="label">${labelPart}</span>`;
+        if (dashPart)  html += `<span class="dash">${dashPart}</span>`;
+        if (restPart)  html += `<span class="rest">${restPart}</span>`;
+        el.innerHTML = html;
+
+        if (i >= full.length) clearInterval(interval);
+      }, CHAR_DELAY);
+    }, START_DELAY);
+  });
+</script>
+</body>
+</html>
