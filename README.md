@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-water-header-v3.gif" width="100%" alt="Animated water-style GitHub header" />
+<img src="./github-water-header.gif" width="100%" alt="Animated water-style GitHub header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-eyad/)
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./what-i-build-v1.gif" width="100%" alt="What I Build" />
+<img src="./what-i-build.gif" width="100%" alt="What I Build" />
 
 <br/>
 
