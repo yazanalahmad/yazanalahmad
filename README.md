@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./github-water-header.gif" width="100%" alt="Animated water-style GitHub header" />
+<img src="./github-water-header.gif" width="100%" alt="Animated GitHub header" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-eyad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7664A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-eyad/)
 
 </div>
 
@@ -60,18 +60,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32" height="32" title="OpenCV"/>
 </p>
 
-![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1a1a2e?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-1a1a2e?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1a1a2e?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-7664A8?style=flat-square&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7664A8?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7664A8?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-7664A8?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7664A8?style=flat-square&logoColor=white)
 
 <br/>
 
 ## Activity
 
-<img src="https://ghchart.rshah.org/7C72FF/yazanalahmad" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&bg_color=D6D9E4&color=262A36&line=7664A8&point=7664A8&area=true&hide_border=true&title_color=262A36&area_color=B3AAD5" width="100%" alt="GitHub activity graph" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=github-dark-blue&hide_border=true&border_radius=10&ring=7C72FF&fire=7C72FF&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="100%" />
+<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=default&hide_border=true&border_radius=12&ring=7664A8&fire=7664A8&currStreakLabel=262A36&sideLabels=262A36&dates=596070&currStreakNum=262A36&sideNums=262A36" width="100%" alt="GitHub streak stats" />
