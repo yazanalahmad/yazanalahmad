@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./github-water-header.gif" width="100%" alt="Animated GitHub header" />
+<img src="./github-water-header-clear.gif" width="100%" alt="Animated GitHub header" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7664A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-eyad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5E8A9A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-eyad/)
 
 </div>
 
 <br/>
 
-<img src="./what-i-build.gif" width="100%" alt="What I Build" />
+<img src="./what-i-build-clear.gif" width="100%" alt="What I Build" />
 
 <br/>
 
@@ -60,18 +60,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32" height="32" title="OpenCV"/>
 </p>
 
-![LangChain](https://img.shields.io/badge/LangChain-7664A8?style=flat-square&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7664A8?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-7664A8?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-7664A8?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7664A8?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-5E8A9A?style=flat-square&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5E8A9A?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-5E8A9A?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-5E8A9A?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5E8A9A?style=flat-square&logoColor=white)
 
 <br/>
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&bg_color=D6D9E4&color=262A36&line=7664A8&point=7664A8&area=true&hide_border=true&title_color=262A36&area_color=B3AAD5" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazanalahmad&bg_color=F6F8FA&color=2F3D4E&line=5E8A9A&point=5E8A9A&area=true&hide_border=true&title_color=2F3D4E&area_color=BFD6DE" width="100%" alt="GitHub activity graph" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=default&hide_border=true&border_radius=12&ring=7664A8&fire=7664A8&currStreakLabel=262A36&sideLabels=262A36&dates=596070&currStreakNum=262A36&sideNums=262A36" width="100%" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=default&hide_border=true&border_radius=12&background=F6F8FA&stroke=D8E0E7&ring=5E8A9A&fire=5E8A9A&currStreakLabel=2F3D4E&sideLabels=2F3D4E&dates=66788C&currStreakNum=2F3D4E&sideNums=2F3D4E" width="100%" alt="GitHub streak stats" />
