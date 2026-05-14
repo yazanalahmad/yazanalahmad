@@ -14,60 +14,40 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=100&color=5E8A9A&multiline=true&repeat=false&width=720&height=90&lines=%E2%96%B8+AI+systems+that+actually+work+in+production+%E2%80%94+RAG%2C+vector+search%2C+LLM+integration;%E2%96%B8+fast+APIs+that+don't+fall+over+%E2%80%94+FastAPI%2C+Django%2C+sub-150ms+under+real+load;%E2%96%B8+full-stack+products+from+scratch+%E2%80%94+React%2C+TypeScript%2C+real-time+features;%E2%96%B8+infra+that+doesn't+wake+you+up+at+3+AM+%E2%80%94+Docker%2C+Kubernetes%2C+Helm%2C+Redis%2C+PostgreSQL)](https://git.io/typing-svg)
 
-<br/>
-
 ## Stack
 
-<table>
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="16">
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" title="JavaScript"/>
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **Frameworks**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32" title="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32" height="32" title="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" title="Node.js"/>
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs&theme=dark&perline=5)](https://skillicons.dev)
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **Infrastructure**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32" height="32" title="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="32" height="32" title="Helm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" height="32" title="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="32" height="32" title="GCP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32" height="32" title="Grafana"/>
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,mongodb,aws,gcp,grafana&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **AI / ML**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" height="32" title="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" height="32" title="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32" height="32" title="Scikit-Learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32" height="32" title="OpenCV"/>
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
 ![LangChain](https://img.shields.io/badge/LangChain-5E8A9A?style=flat-square&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5E8A9A?style=flat-square&logoColor=white)
@@ -78,6 +58,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
