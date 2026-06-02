@@ -69,6 +69,5 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yazanalahmad&theme=transparent&hide_border=true&border_radius=12&ring=5E8A9A&fire=5E8A9A&currStreakLabel=2F3D4E&sideLabels=2F3D4E&dates=66788C&currStreakNum=2F3D4E&sideNums=2F3D4E" width="100%" alt="GitHub streak stats" />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=5E8A9A&height=100&section=footer)
